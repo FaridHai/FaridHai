@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My Name is Farid. Thanks for visiting my Github!
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FaridHai&show_icons=true&theme=tokyonight" />
 
